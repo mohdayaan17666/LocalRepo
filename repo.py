@@ -1,4 +1,4 @@
 print("Hello world")
 a = 5
-b = input(int('Entre a no. :'))
+b = int(input("Entre a no. :"))
 print(a*b)
